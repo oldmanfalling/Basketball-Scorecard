@@ -67,9 +67,9 @@ h3 {
     font-family: CursedTimerUlil-Aznm;
     font-size: 1.25rem;
     color: #D1D5DB;
-    border-color: #D1D5DB;
     border-radius: 5px;
     cursor: pointer;
+    border: 1px solid #D1D5DB;
 
 }
 
